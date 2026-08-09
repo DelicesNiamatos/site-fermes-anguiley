@@ -1,0 +1,3 @@
+Version publiée directement sur gh-pages
+Date: 2026-08-09T15:51:00-04:00
+Statut: correction appliquée à la branche effectivement servie par GitHub Pages.
