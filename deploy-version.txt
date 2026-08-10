@@ -1,3 +1,4 @@
 Déploiement forcé GitHub Pages
-Date: 2026-08-09T15:49:00-04:00
-Objectif: forcer la publication de la version corrigée du site Les Fermes Anguiley.
+Date: 2026-08-10T17:12:00-04:00
+Commit publié: 9d6176aba25d9e58f393f80990f8fa2c036f3c16
+Objectif: forcer GitHub Pages à republier la version finale nettoyée du site Les Fermes Anguiley.
